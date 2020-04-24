@@ -32,7 +32,7 @@ public class Program {
 		int n = sc.nextInt();
 		for (int i = 1; i < n; i++) {
 			System.out.println("Enter contract #" + i + " data:");
-			sy
+			System.out.println();
 			
 
 		}
